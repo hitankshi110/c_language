@@ -7,6 +7,6 @@ void main() {
 
     printf("num1=%d, num2=%d, ans=%d", num1,num2,ans);
 
-    printf("Hello world");
+    printf("Hello world 2.0");
 
 }
